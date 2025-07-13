@@ -96,6 +96,7 @@ FIXER_API_KEY = "your_fixer_key_here"
 
 Place all your invoice files inside:
 
+```
 AInvoice/
 └── invoices/
     ├── january/
@@ -103,6 +104,7 @@ AInvoice/
     │   └── invoice2.jpg
     └── february/
         └── invoice3.png
+```
 
 > Folder names are used only for internal ordering.
 
