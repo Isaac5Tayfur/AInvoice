@@ -32,8 +32,7 @@ This project is ideal for freelancers, small businesses, and data professionals 
 
 ## 📁 Folder Structure
 
-AInvoice/
-│
+```
 ├── main.py
 ├── functions.py
 ├── prompt.py
@@ -48,12 +47,12 @@ AInvoice/
 │   └── 12_December/
 │
 ├── PowerBI/                     # Power BI visual templates
-│   ├── Dashboard_AInvoice.pbix             # Power BI clean template
-│   ├── Dashboard_AInvoice (reference).pbix # Layout reference
-│   └── IMPORTANT - READ.txt                # Dashboard instructions
+│   ├── Dashboard_AInvoice.pbix               # Power BI clean template
+│   ├── Dashboard_AInvoice (reference).pbix   # Layout reference
+│   └── IMPORTANT - READ.txt                  # Dashboard instructions
 │
-├── data/ (optional)           
-│   └── invoices_export.csv      # Optional CSV export from SQLite queries
+├── invoices_export.csv          # Optional CSV export from SQLite queries           
+```
 
 ---
 
