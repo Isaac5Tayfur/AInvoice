@@ -1,0 +1,7 @@
+Remember that I have removed my invoices.
+
+So when you open the dashboard, it will display errors.
+
+Once you run the Python script and the database is created, you’ll need to connect Power BI to it via ODBC (or using the exported CSV file, if that’s the case).
+
+Then, remap the visuals to your own data.

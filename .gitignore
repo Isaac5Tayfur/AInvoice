@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database
+*.db
+
+# VS Code settings (editor-specific)
+.vscode/
+
+# Jupyter (only ignore checkpoint folders, not real notebooks)
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db

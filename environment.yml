@@ -1,0 +1,17 @@
+name: invoice-extractor
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pandas
+  - openai
+  - requests
+  - sqlalchemy
+  - python-dotenv
+  - pytesseract
+  - pillow
+  - pip
+  - pip:
+      - pymupdf  # PDF text extraction
